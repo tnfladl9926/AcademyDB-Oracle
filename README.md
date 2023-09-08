@@ -34,41 +34,41 @@ Oracle DB와 sql developer를 기반으로 취업지원 학원의 전산시스�
 
 ## 📌 주요 기능
 
-#### :heavy_check_mark: 학원 시스템 설계
+### :heavy_check_mark: 학원 시스템 설계
   - 1년에 12개의 과정이 개설되며 약 1개월 단위로 각 과정이 개설됨
   - 각 과정의 기간은 5.5개월, 6개월, 7개월으로 다름
   - 각 과정안에 5~7개의 과목이 존재하며, 각 과목은 약 1개월 단위로 교체됨
   - 과목이 교체될 때마다 해당 과목의 강의가 가능한 교사로 교체됨
   - 팀별 프로젝트 정보 조회
 
-###### :camera: 학원 시스템 설계 이미지
+##### :camera: 학원 시스템 설계 이미지
 
 <br/>
 
-#### :heavy_check_mark: ERD 설계
+### :heavy_check_mark: ERD 설계
   - 
 
-###### :camera: ERD 설계 이미지
+##### :camera: ERD 설계 이미지
 
 <br/>
 
-#### :heavy_check_mark: 관리자 요구사항
+### :heavy_check_mark: 관리자 요구사항
   - 
 
-###### :camera: 실행화면
+##### :camera: 실행화면
 
 <br/>
 
-#### :heavy_check_mark: 교사 요구사항
+### :heavy_check_mark: 교사 요구사항
   - 
 
-###### :camera: 실행화면
+##### :camera: 실행화면
 
 <br/>
 
-#### :heavy_check_mark: 교육생 요구사항
+### :heavy_check_mark: 교육생 요구사항
   - 
 
-###### :camera: 실행화면
+##### :camera: 실행화면
 
 <br/>
