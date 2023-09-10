@@ -30,6 +30,7 @@ Oracle DB와 sql developer를 기반으로 취업지원 학원의 전산시스�
 <br/>
 
 ## :keyboard:DB 설계
+![논리 ERD](https://github.com/tnfladl9926/AcademyDB-Oracle/assets/134984241/d7231160-1e10-4c00-ba70-cb2ddfd4ba4e)
 <br/>
 
 ## 📌 주요 기능
